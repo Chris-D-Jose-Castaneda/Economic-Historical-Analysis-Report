@@ -2,8 +2,6 @@
 
 A compact macroeconomic dashboard built with Python and FRED data to analyze U.S. growth, inflation, labor, rates, volatility, and recession-sensitive signals. The project combines dashboard visualizations, regime analysis, lead-lag diagnostics, inflation persistence, and yield-curve risk signals.
 
-## Report
-
 ## Scope
 
 - Pulls macroeconomic series from FRED
