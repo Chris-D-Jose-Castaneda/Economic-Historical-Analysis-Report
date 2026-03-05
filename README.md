@@ -21,3 +21,6 @@ A compact macroeconomic dashboard built with Python and FRED data to analyze U.S
 ## Data sources
 
 Primary data comes from Federal Reserve Economic Data (FRED), including GDP, CPI, unemployment, Fed funds, Treasury yields, VIX, and recession indicators.
+
+## Brief Dashboard
+I published a dashboard on Tableau Public: https://public.tableau.com/app/profile/chris.d.jose/viz/Book1_17276909200210/MacroOverview
