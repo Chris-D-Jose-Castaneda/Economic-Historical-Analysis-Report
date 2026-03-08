@@ -4,7 +4,7 @@ A compact macroeconomic dashboard built with Python and FRED data to analyze U.S
 
 ## Scope
 
-- Pulls macroeconomic series from FRED
+- Pulls macroeconomic series from FRED API
 - Cleans and reshapes data into analysis-ready panels
 - Builds visual diagnostics for rates, CPI, unemployment, VIX, and the yield curve
 - Evaluates hiking, hold, and cutting regimes
